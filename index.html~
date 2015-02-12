@@ -91,7 +91,7 @@ a new gaming experince.  <a class="smoothscroll" href="#about">Start scrolling</
 
             <h2>About Tanks</h2>
             <p>This is about our tanks game and how it needs to be played by the clients</p>
-	<!-- Start WOWSlider.com BODY section add to the <body> of your page -->
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
 	<div id="wowslider-container3">
 	<div class="ws_images"><ul>
 		<li><img src="data3/images/1.jpg" alt="1" title="1" id="wows3_0"/></li>
